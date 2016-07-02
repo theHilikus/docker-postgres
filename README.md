@@ -1,6 +1,6 @@
 # About this Repo
 
-This repo is a copy of the  [official Postgres image](https://docs.docker.com/docker-hub/official_repos/) modified to run on top of CentOS 7 instead of Debian
+This repo is a copy of the  [official Postgres image](https://hub.docker.com/r/_/postgres/) modified to run on top of CentOS 7 instead of Debian
 
 All the instructions of the official image still apply here
 
